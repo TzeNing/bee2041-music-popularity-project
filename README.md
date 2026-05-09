@@ -40,7 +40,7 @@ If the website link is not yet live, the blog can also be viewed by opening `ind
 
 ## Reproducibility
 
-The analysis is reproducible from the files in this repository. The raw and cleaned datasets, notebook, exported figures and website files are included so the project can be rerun and checked.
+The analysis is reproducible from the files in this repository. The raw and cleaned datasets, notebook, exported figures and website files are included so the project can be rerun and checked. Please not that the raw CSV file is stored in `data/raw/`. If GitHub cannot preview the file because of its size, it can still be downloaded or used directly when running the notebook.
 
 ## Methods used
 
