@@ -1,8 +1,9 @@
-# Empirical Project: Can Spotify Audio Features Explain Song Popularity?
+# Empirical Project: Data Science in Economics
 
+## The Myth of the Hit Song Formula
 BEE2041 Data Science in Economics
 
-This repository contains the full code, data, figures and website for my BEE2041 empirical project. The project investigates whether Spotify audio features can explain song popularity.
+This repository contains the full code, data, figures and website for the BEE2041 empirical project. The project investigates whether Spotify audio features can explain song popularity.
 
 ## Research question
 
