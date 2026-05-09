@@ -1,7 +1,8 @@
 # Empirical Project: Data Science in Economics
 
 ## The Myth of the Hit Song Formula
-BEE2041 Data Science in Economics
+
+**Module:** BEE2041 Data Science in Economics
 
 This repository contains the full code, data, figures and website for the BEE2041 empirical project. The project investigates whether Spotify audio features can explain song popularity.
 
@@ -21,7 +22,7 @@ The main finding is that Spotify audio features show some patterns, but they do 
 
 The final data-driven blog website is published here:
 
-https://tzening.github.io/bee2041-music-popularity-project/ 
+https://tzening.github.io/bee2041-music-popularity-project/
 
 ## Repository structure
 
