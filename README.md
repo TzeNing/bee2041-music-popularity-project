@@ -22,7 +22,7 @@ The main finding is that Spotify audio features show some patterns, but they do 
 
 The final data-driven blog website is published here:
 
-https://tzening.github.io/bee2041-music-popularity-project/
+https://tzening.github.io/bee2041-music-popularity-project/ 
 
 ## Repository structure
 
