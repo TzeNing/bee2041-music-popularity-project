@@ -37,10 +37,9 @@
           <h2>Introduction</h2>
         </div>
         <p class="lead">
-          People often talk about hit songs as if there is a formula: make it danceable, energetic,
-          catchy and emotionally bright. But does the data actually support that idea? Using 89,740
-          Spotify tracks, this project tests whether measurable audio features can explain which songs
-          become more popular.
+          Hit songs often feel as if they must follow a secret recipe: a catchy rhythm, bright energy, 
+          emotional appeal and just enough danceability to stay in your head. But if that formula 
+          really exists, it should leave a trace in the data.
         </p>
         <p>
           The appeal of a hit-song formula is easy to understand. Streaming platforms measure music in
@@ -188,10 +187,15 @@
           <h2>Can a model predict popularity?</h2>
         </div>
         <p>
-          The project also tested whether a logistic regression model could classify tracks as popular
-          or less popular using Spotify audio features. At first glance, the model accuracy looks strong:
-          0.7483, or about 75%. However, accuracy can be misleading when one class is much larger than
-          the other. In this dataset, less popular songs outnumber popular songs by about three to one.
+          The descriptive charts suggest that popular songs are only slightly different. The next test is
+          stricter: if these audio features really contain a hit-song formula, a model should be able to
+          use them to identify popular tracks. The project therefore tested whether a logistic regression
+          model could classify tracks as popular or less popular using Spotify audio features.
+        </p>
+        <p>
+          At first glance, the model accuracy looks strong: 0.7483, or about 75%. However, accuracy can
+          be misleading when one class is much larger than the other. In this dataset, less popular songs
+          outnumber popular songs by about three to one.
         </p>
         <p>
           The more revealing metric is recall for popular songs. The model's recall for popular songs
@@ -251,6 +255,10 @@
           commercial and platform-driven outcome as well as a musical one. The data is better read as a
           warning against overconfidence: hit songs may share some traits, but there is no clear recipe
           hiding in these audio features.
+        </p>
+        <p>
+          In short, the data does not reveal a hit-song recipe. It shows that popularity is partly musical,
+          but also deeply social, commercial and platform-driven.
         </p>
       </section>
 
