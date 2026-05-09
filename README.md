@@ -48,7 +48,7 @@ https://tzening.github.io/bee2041-music-popularity-project/
 
 The analysis is reproducible from the files in this repository. The raw and cleaned datasets, notebook, exported figures and website files are included so the project can be rerun and checked.
 
-The raw CSV file is stored in `data/raw/`. If GitHub cannot preview the file because of its size, it can still be downloaded or used directly when running the notebook.
+The raw CSV file is stored in `data/raw/`, and the cleaned CSV file is stored in `data/cleaned/`. If GitHub cannot preview either CSV file because of its size, the files can still be downloaded from the repository or used directly when running `blog.ipynb`.
 
 ## Methods used
 
